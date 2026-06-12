@@ -17,8 +17,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 🛠️ My Tech Toolbox
 
 ### 🤖 Machine Learning & Data Science
