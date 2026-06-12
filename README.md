@@ -13,7 +13,7 @@
 - 🌱 Learning MLOps, LLMs & Advanced ML
 - 🤖 Passionate about Computer Vision and Deep Learning
 - 💡 Love solving real-world problems using AI
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: jatinvarshney939@gmail.com
 
 ---
 
