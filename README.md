@@ -8,12 +8,20 @@
 ---
 
 ## 🚀 About Me
+**🚀 Software Developer | Full-Stack Developer | Machine Learning Enthusiast**
 
-- 🔭 Working on AI-powered applications
-- 🌱 Learning MLOps, LLMs & Advanced ML
-- 🤖 Passionate about Computer Vision and Deep Learning
-- 💡 Love solving real-world problems using AI
-- 📫 Reach me: jatinvarshney939@gmail.com
+I enjoy building scalable web applications, designing efficient backend systems, and creating seamless user experiences through modern software engineering practices.
+
+Alongside full-stack development, I'm passionate about Machine Learning and AI, exploring how intelligent systems can solve real-world problems through data-driven insights, automation, and computer vision.
+
+🔹 Full-Stack Development (React.js, Node.js, Django)
+🔹 Machine Learning & Data Science
+🔹 Computer Vision & OCR Applications
+🔹 AWS Cloud & Scalable Systems
+
+🚔 Creator of Eagle Insight – an AI-powered stolen vehicle detection and alert system.
+
+🌱 Currently learning Machine Learning Engineering, MLOps, and advanced AI applications.
 
 ---
 
